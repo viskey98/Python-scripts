@@ -1,2 +1,2 @@
 # Python-scripts
-Few python scripts written by me
+These are scipts written by me for practice.
