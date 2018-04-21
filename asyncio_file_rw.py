@@ -1,6 +1,6 @@
 import asyncio
 import concurrent.futures
-# Class which performs asynchronous file read and write operations asynchronously using async.Queue
+# Class which performs asynchronous file read and write operations using async.Queue
 class AsyncReadWrite():
     def __init__(self, rf, wf):
         self.queue = asyncio.Queue()
